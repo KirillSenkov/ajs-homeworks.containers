@@ -1,1 +1,12 @@
 # ajs-homeworks.containers
+[![Build status](https://ci.appveyor.com/api/projects/status/tx3h02i46385laag?svg=true)](https://ci.appveyor.com/project/KirillSenkov/ajs-homeworks-containers)
+## Контейнеры
+### team.js
+- add
+- addAll
+- toArray
+### errorrepository.js
+- add
+- translate
+### settings.js
+- settings
